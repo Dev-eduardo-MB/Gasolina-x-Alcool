@@ -25,8 +25,7 @@ O objetivo deste projeto é ajudar os usuários a tomar decisões informadas sob
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/usuario/nome-do-repositorio.git
-    ```
+    git clone https://github.com/Dev-eduardo-MB/Gasolina-x-Alcool.git
 
 2. Navegue para o diretório do projeto:
 
