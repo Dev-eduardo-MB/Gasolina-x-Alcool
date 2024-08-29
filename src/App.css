@@ -1,0 +1,19 @@
+.container {
+    max-width: 72rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1.4rem;
+}
+
+.logo {
+    max-width: 22.7rem;
+}
+
+.title {
+    color: var(--color-title);
+    text-align: center;
+    margin: 2.4rem 0;
+    font-size: 2.4rem;
+}

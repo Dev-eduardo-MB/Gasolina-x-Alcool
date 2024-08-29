@@ -1,0 +1,36 @@
+* {
+  margin: 0 auto;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+:root {
+  /* Color for Title */
+  --color-title: #e1d3d4;
+
+  /* Colors for Form */
+  --color-submit-background: #1b6bdc;
+  --color-Subimt-text: #ffffff;
+  --color-text-Form: #f2e9e9;
+
+
+  /* Color for Body */
+  --color-background-body: #22272e;
+
+  /* Colors for componentResult */
+  --color-background-Result: rgb(208, 57, 34);
+  --color-text-Result: #f2e9e9;
+  --color-title-Result: #f3eac4;
+}
+
+
+
+body {
+  background-color: var(--color-background-body);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
