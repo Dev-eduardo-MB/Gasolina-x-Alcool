@@ -17,7 +17,7 @@ O objetivo deste projeto é ajudar os usuários a tomar decisões informadas sob
 
 ### Requisitos
 
-- Node.js (versão x.x.x)
+- Node.js (versão v20.16.0)
 - npm (ou yarn)
 
 ### Instalação
